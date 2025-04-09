@@ -61,8 +61,8 @@ const Footer = () => {
             <h3 className="text-primary-white text-xl font-semibold mb-6">Contact Info</h3>
             <ul className="space-y-4">
               {[
-                { icon: <Phone size={20} />, text: '(612) 555-0123' },
-                { icon: <Mail size={20} />, text: 'contact@blackhorn.com' },
+                { icon: <Phone size={20} />, text: '(612) 636-7709' },
+                { icon: <Mail size={20} />, text: 'c.sykes@blackhorn.com' },
                 { icon: <MapPin size={20} />, text: 'Minneapolis-St. Paul, MN' }
               ].map((item, index) => (
                 <li key={index} className="flex items-center text-primary-gray text-lg">
